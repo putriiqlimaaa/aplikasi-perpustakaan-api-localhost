@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src="https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/600e0eab-2c47-46bf-959a-24ba41e2ad8a" width="300" height="500">
+<img src="https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/600e0eab-2c47-46bf-959a-24ba41e2ad8a" width="200" height="400">
 
 ![Gambar WhatsApp 2024-06-12 pukul 20 38 18_08b32743](https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/5853fa18-b595-4f5b-b449-cc117d5b0973)
 
