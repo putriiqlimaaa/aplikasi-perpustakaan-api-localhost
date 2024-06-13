@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/ac218256-60af-4b71-a85a-eec908db54bb" width="200" height="400">
 
-<img src="https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/d353a851-b2bf-499a-93f8-e73838f77159" width="200" height="400">
+<img src="https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/4aec69ae-a7db-44aa-a99d-a625f60a279c" width="200" height="400">
 
 <img src="https://github.com/putriiqlimaaa/aplikasi-perpustakaan-api-localhost/assets/154120863/540bb57f-f03d-4b4b-803f-617615af5887" width="200" height="400">
 
